@@ -1,0 +1,28 @@
+{
+  "name": "download",
+  "version": "1.0.0",
+  "description": "download file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "download",
+    "file",
+    "express",
+    "node"
+  ],
+  "author": "Feroz S. Mutimeer",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.3",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
+}

@@ -1,0 +1,12 @@
+POST http://localhost:3002/api/v1/uploads
+
+
+###
+POST http://localhost:3002/api/v2/download
+
+###
+GET http://localhost:3002/4315b9f7-d50d-4279-a947-5a86a199f842
+
+
+###
+GET http://localhost:3000/files/download/4315b9f7-d50d-4279-a947-5a86a199f842
